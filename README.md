@@ -22,9 +22,8 @@
 </div>
 <div id="header" align="left">  
   I am a beginner programmer from :ukraine:
-<div id="header" align="left"> 
   
-- :open_book: I’m now learning Python and looking for new expirience.
+- :open_book: Now I learning Python and looking for new expirience.
 
 - :zap: In my free time, I look for courses to improve my skills and learn something new.
 
