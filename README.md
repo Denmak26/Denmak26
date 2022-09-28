@@ -28,6 +28,8 @@
 
 - :zap: In my free time, I look for courses to improve my skills and learn something new.
 
+- :speaking_head: My native language is :ukraine: but im also fluent in :us:
+  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DeanMak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dean-mak-6b9248250/) 
   
  ---
