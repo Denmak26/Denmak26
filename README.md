@@ -2,12 +2,9 @@
   <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="250"/>
   <h1>
     
-  Hello
+  Hello, I'm glad to see you in my <img src="https://img.shields.io/badge/GitHub-black" alt=""/>
 
  <div id="badges">
-  <a href="https://www.linkedin.com/in/dean-mak-6b9248250/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Deanmak26&style=flat-square&color=blue" alt=""/>
